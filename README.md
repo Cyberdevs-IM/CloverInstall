@@ -1,4 +1,4 @@
-This is a repo for instructions on how to make a Clover USB Installer the correct way. Use the branches for what version of macOS you are building your USB Installer on.
+This is a repo for instructions on how to make a Clover USB Installer the correct way. Use the Wiki for what version of macOS you are building your USB Installer on.
 
 Supported Branch Versions:
 
