@@ -1,6 +1,6 @@
 This is a repo for instructions on how to make a Clover USB Installer the correct way. Use the [Wiki](http://ddi.hopto.org:3000/henry.brock/CloverInstall/wiki/_pages) for what version of macOS you are building your USB Installer on.
 
-Supported Branch Versions:
+Supported macOS (OS X) Versions:
 
 [**Yosemite**](http://ddi.hopto.org:3000/henry.brock/CloverInstall/wiki/Yosemite)
 
