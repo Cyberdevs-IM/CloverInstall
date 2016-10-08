@@ -9,3 +9,5 @@ El Captian
 Sierra
 
 Master will be used to host the required file needs for Clover.
+
+If you would like to contribute to this repo and make it more accurate and successful for other hackintoshers please create a account and do a so. Use the Issues tracker for any issues or mistakes that are in the tutorials or files.
