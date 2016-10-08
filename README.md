@@ -14,4 +14,5 @@ If you would like to contribute to this repo and make it more accurate and succe
 
 
 **Disclaimer**
+
 Using the latest FakeSMC.kext can cause older verions of macOS (OS X) to not boot, always test the latest files on a USB before updating your current working solution!
