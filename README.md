@@ -4,8 +4,6 @@ Supported macOS (OS X) Versions:
 
 [**Yosemite**](http://ddi.hopto.org:3000/henry.brock/CloverInstall/wiki/Yosemite)
 
-[**El Capitan**](http://ddi.hopto.org:3000/henry.brock/CloverInstall/wiki/El-Capitan)
-
 [**Sierra**](http://ddi.hopto.org:3000/henry.brock/CloverInstall/wiki/Sierra)
 
 Master will be used to host the required file needs for Clover.
