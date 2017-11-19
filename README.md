@@ -1,10 +1,10 @@
-This is a repo for instructions on how to make a Clover USB Installer the correct way. Use the [Wiki](https://ddi.hopto.org/gogs-server/henry.brock/CloverInstall/wiki/_pages) for what version of macOS you are building your USB Installer on.
+This is a repo for instructions on how to make a Clover USB Installer the correct way. Use the [Wiki](https://github.com/Pavo-IM/CloverInstall/wiki) for what version of macOS you are building your USB Installer on.
 
 Supported macOS (OS X) Versions:
 
-[**Yosemite**](https://ddi.hopto.org/gogs-server/henry.brock/CloverInstall/wiki/Yosemite)
+[**Yosemite**](https://github.com/Pavo-IM/CloverInstall/wiki/Yosemite)
 
-[**Sierra**](https://ddi.hopto.org/gogs-server/henry.brock/CloverInstall/wiki/Sierra)
+[**Sierra**](https://github.com/Pavo-IM/CloverInstall/wiki/Sierra)
 
 Master will be used to host the required file needs for Clover.
 
