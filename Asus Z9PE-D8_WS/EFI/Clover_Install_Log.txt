@@ -1,0 +1,33 @@
+
+Clover EFI installer log - Tue May 29 16:31:59 EDT 2018
+Installer version: v2.4k r4509 EFI bootloader
+======================================================
+/dev/disk0 (internal):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                         500.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk1         499.9 GB   disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +499.9 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume macOS                   81.7 GB    disk1s1
+   2:                APFS Volume Preboot                 21.1 MB    disk1s2
+   3:                APFS Volume Recovery                518.2 MB   disk1s3
+   4:                APFS Volume VM                      20.5 KB    disk1s4
+
+Target volume /Volumes/macOS on disk1 is APFS on physical store disk0s2
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/macOS/EFIROOTDIR/EFI folder to /Volumes/macOS/EFI-Backups/r4497/2018-05-29-16h32/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
