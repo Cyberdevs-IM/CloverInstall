@@ -1,0 +1,48 @@
+
+Clover EFI installer log - Mon Jan 22 23:15:37 +0330 2018
+Installer version: v2.4k r4391 EFI bootloader
+======================================================
+/dev/disk0 (internal):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                         250.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS Boot                    249.2 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+
+/dev/disk1 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *1.0 TB     disk1
+   1:                        EFI EFI                     209.7 MB   disk1s1
+   2:                  Apple_HFS Western                 999.9 GB   disk1s2
+
+/dev/disk3 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *1.0 TB     disk3
+   1:                        EFI EFI                     209.7 MB   disk3s1
+   2:                  Apple_HFS Data                    999.9 GB   disk3s2
+
+/dev/disk4 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk4
+   1:                        EFI EFI                     209.7 MB   disk4s1
+   2:                  Apple_HFS DII                     2.0 TB     disk4s2
+
+/dev/disk5 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk5
+   1:                        EFI EFI                     209.7 MB   disk5s1
+   2:                  Apple_HFS XII                     2.0 TB     disk5s2
+
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/Boot/EFIROOTDIR/EFI folder to /Volumes/Boot/EFI-Backups/r4369/2018-01-22-23h15/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
