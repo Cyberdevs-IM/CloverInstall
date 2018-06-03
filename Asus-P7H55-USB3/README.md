@@ -4,4 +4,4 @@ Intel Core i7 760 @ 2.8 GHz 16GB Ram DDR3 1333 Seagate Baracuda 500 GB Western D
 
 What works:
 
-Everything, except the Built-in Asmedia USB 3.0 ports
+Everything, excpet the Built-in Asmedia USB 3.0 ports
